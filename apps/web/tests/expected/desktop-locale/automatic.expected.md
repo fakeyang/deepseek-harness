@@ -12,9 +12,9 @@
   - text: 语言
   - button "中文"
   - text: 外观
-  - button "浅色"
+  - button "浅色" [pressed]
   - button "深色"
-  - button "跟随系统" [pressed]
+  - button "跟随系统"
   - text: 字号大小 仅影响会话内容的字号 14
   - button "增大字号"
   - button "减小字号"
